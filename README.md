@@ -1,5 +1,5 @@
 👋 Hi, I’m Syed Wafeeq
-Cybersecurity Enthusiast | Ethical Hacker | Problem Solver | Lifelong Learner
+Cybersecurity Enthusiast | Aspiring Ethical Hacker | Problem Solver 
 <p align="center"> <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/output/github-activity-graph-light.svg" alt="Activity Graph" /> </p>
 🚀 About Me
 
